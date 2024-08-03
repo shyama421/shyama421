@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Shyama Goriya<br>👀 I’m interested in Full-stack development and Database.<br>💬 Ask me about html ,css ,php, java, c, c++, js, React-js, Node-js, MySQL, and adobi photoshop.<br>🌱 I’m currently pursuing BCA and Full-Stack Development<br>💞 I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me shyamap227@gmail.com
+👋 Hi, I’m Mahek Goriya<br>👀 I’m interested in Full-stack development and Database.<br>💬 Ask me about html ,css ,php, java, c, c++, js, React-js, Node-js, MySQL, and adobi photoshop.<br>🌱 I’m currently pursuing BCA and Full-Stack Development<br>💞 I’m looking to collaborate on any kind of technical projects<br>📫 How to reach me shyamap227@gmail.com
 
 
 ## 🌐 Socials:
